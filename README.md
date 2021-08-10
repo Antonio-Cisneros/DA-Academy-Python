@@ -37,7 +37,7 @@ $ jupyter notebook
 | Dictionaries       | clear, copy, popitem(), values(), items(), keys()                 |
 | Strings methods    | capitalize(), casefold(), find(), strip()                         |
 | Loops              | For Loop, While Loop, Nested Loops, Break, Continue               |
-| List Comprehension | can utilize conditional statement to modify existing list         |
+| List Comprehension | Can utilize conditional statement to modify existing list         |
 | Functions          | A group of related statements that performs a specific task       |
-| Imports            | Modules and packages |
+| Imports            | Modules and packages                                              |
 
