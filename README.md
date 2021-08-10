@@ -1,6 +1,6 @@
 # DA-Academy-Python
 
-I used Jupyter Notebook. The python version installed was 3.9.6 
+I used Jupyter Notebook. The python version installed was [3.9.6](https://www.python.org/downloads/) 
 
 ## Jupyter installation
 
